@@ -1,5 +1,5 @@
-# flutt
-
+# flutter 
+My first app 
 A new Flutter project.
 
 ## Getting Started
